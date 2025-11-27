@@ -34,9 +34,12 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
 
 **PROGRAM**
+
+Developed by: PORCHEZIAN S
+
+Register number: 25017994
 
 ```
 module jkff(j,k,clk,q,qbar);
